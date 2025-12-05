@@ -1,0 +1,5 @@
+{
+  "name": "Ethereal Particles 3D",
+  "description": "A real-time interactive 3D particle system featuring custom shapes, dynamic dispersion on interaction, and aesthetic visual controls.",
+  "requestFramePermissions": []
+}
